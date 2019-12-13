@@ -1,1 +1,1 @@
-ini adalah file perdana di cabang baru, diubah oleh orang baru, commit lage
+ini adalah file perdana di cabang baru, diubah oleh orang baru
